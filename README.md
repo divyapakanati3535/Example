@@ -22,7 +22,7 @@ https://flexmoney-yoga-form.herokuapp.com/
 
 ### Clone this repo
 
-https://github.com/divyapakanati3535/flexMoney_Yogaform.git
+https://github.com/divyapakanati3535/Example.git
 
 
 ### Create Virtual Environment and Install Required Python Modules
